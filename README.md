@@ -1,1 +1,1 @@
-Emby 域名汇总 转为新人提供
+Emby 域名汇总 专为新人提供 适用于Clash Rule
